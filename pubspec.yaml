@@ -10,8 +10,7 @@ environment:
 dependencies:
   jaguar: '>=0.4.3 <0.5.0'
   jaguar_serializer: '>=0.3.4 <0.4.0'
-  jaguar_json:
-    path: ../../jaguar_json
+  jaguar_json: '>=0.0.1 <0.1.0'
   jaguar_reflect: '>=0.4.3 <0.5.0'
 
 dev_dependencies:
