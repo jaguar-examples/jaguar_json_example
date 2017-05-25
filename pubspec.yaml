@@ -1,0 +1,18 @@
+name: jaguar_json_example
+description: Examples demonstrating the usage jaguar_json interceptors
+version: 0.0.1
+#homepage: https://www.example.com
+#author: teja <email@example.com>
+
+environment:
+  sdk: '>=1.20.1 <2.0.0'
+
+dependencies:
+  jaguar: '>=0.4.3 <0.5.0'
+  jaguar_serializer: '>=0.3.4 <0.4.0'
+  jaguar_json:
+    path: ../../jaguar_json
+  jaguar_reflect: '>=0.4.3 <0.5.0'
+
+dev_dependencies:
+  test: ^0.12.0

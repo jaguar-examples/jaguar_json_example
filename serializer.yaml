@@ -1,0 +1,2 @@
+serializers:
+  - lib/serializers/serializers.dart
